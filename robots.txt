@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://class-pikachu.github.io/sitemap.xml
